@@ -28,24 +28,24 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My ryyUser Stats:
 
 <p align="center">
-  <a href="https://github.com/[Your-GitHub-Username]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats"/>
+  <a href="https://ryyUser.com/[ryyUser]">
+    <img src="https://ryyUser-readme-stats.vercel.app/api?username=[ryyUser]&show_icons=true&theme=radical" alt="[Your Name]'s ryyUser Stats"/>
   </a>
-  <a href="https://github.com/[Your-GitHub-Username]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://ryyUser.com/[ryyUser]">
+    <img src="https://ryyUser-readme-stats.vercel.app/api/top-langs/?username=[ryyUser]&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 ryyUser Trophies:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[ryyUser]&theme=radical" alt="GitHub Trophies"/>
+  <a href="https://ryyUser.com/ryo-ma/ryyUser-profile-trophy">
+    <img src="https://ryyUser-profile-trophy.vercel.app/?username=[ryyUser]&theme=radical" alt="ryyUser Trophies"/>
   </a>
 </p>
 
