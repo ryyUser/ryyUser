@@ -7,7 +7,7 @@
   <img src="[Link to your header image or GIF]" alt="Header Image" width="600"/>
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [Farouk] 👋</h1>
 <h3 align="center">A passionate Full-Stack App Developer specializing in JavaScript & React.</h3>
 
 ---
@@ -15,13 +15,7 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently building awesome applications with **React and Node.js**.
-- 🌱 I’m currently diving deeper into **[A specific technology you're learning, e.g., GraphQL, Next.js]**.
-- 👯 I’m looking to collaborate on **innovative full-stack JavaScript projects**.
 - 💬 Ask me about **React, JavaScript, Node.js, and app development**.
-- 📫 How to reach me: **[Your Email Address]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A fun fact about yourself]**
-
 ---
 
 ### 🛠️ My Skills:
@@ -51,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[Your-GitHub-Username]&theme=radical" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=[ryyUser]&theme=radical" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -66,5 +60,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=[RyyUser]&style=flat-square&color=blue" alt="Profile views"/>
 </div>
