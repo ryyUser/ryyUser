@@ -1,5 +1,4 @@
 <!-- 
-**NOTE:** This is a template. You'll need to replace placeholders like `[Your-GitHub-Username]` with your actual information.
 -->
 
 <!-- Animated Header -->
@@ -41,7 +40,7 @@ I'm a full-stack developer with a passion for building things for the web. I thr
   </a>
   <!-- Top Languages Card -->
   <a href="https://github.com/ryyUser">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyUser&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   </a>
   <!-- GitHub Streak Stats -->
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ryyUser&theme=dark&hide_border=true" alt="GitHub Streak">
@@ -69,5 +68,5 @@ I'm a full-stack developer with a passion for building things for the web. I thr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ryyUser&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="Profile views"/>
 </p>
