@@ -1,7 +1,4 @@
-<!-- 
-**NOTE:** This template is pre-configured for the user ryyUser.
-Just update your social media links at the bottom.
--->
+
 
 <!-- Animated Header -->
 <p align="center">
@@ -10,7 +7,7 @@ Just update your social media links at the bottom.
 
 <!-- Typing SVG Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&width=500&lines=Hey+there!+I'm+ryyUser;I'm+a+Full-Stack+App+Developer;I+turn+coffee+into+code;...and+I'm+always+learning." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&width=500&lines=Hey+there!+I'm+Farouk;I'm+a+Full-Stack+App+Developer;I+turn+IZEM+into+code;...and+I'm+always+learning." alt="Typing SVG" /></a>
 </div>
 
 ---
