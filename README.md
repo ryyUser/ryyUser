@@ -36,8 +36,8 @@ I'm a full-stack developer with a passion for building things for the web. I thr
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/[Your-GitHub-Username]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/[ryyUser]">
+    <img src="https://github-readme-stats.vercel.app/api?username=[ryyUser]&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <!-- Top Languages Card -->
   <a href="https://github.com/[Your-GitHub-Username]">
@@ -54,7 +54,7 @@ I'm a full-stack developer with a passion for building things for the web. I thr
 ### 🐍 <samp> My Contribution Graph Snake </samp>
 
 <p align="center">
-  <img src="https://github.com/[Your-GitHub-Username]/[Your-GitHub-Username]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/[Your-GitHub-Username]/[RyyUser]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -62,8 +62,8 @@ I'm a full-stack developer with a passion for building things for the web. I thr
 ### 🤖 <samp> Connect & Collab </samp>
 
 <p align="center">
-  <a href="https://www.instagram.com/[Your-Instagram-Username]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discord.com/users/[Your-Discord-User-ID]"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.instagram.com/[2mmmmmr]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/[.1ev]"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
