@@ -1,64 +1,73 @@
 <!-- 
-**NOTE:** This is a template. Please replace the bracketed text with your own information.
+**NOTE:** This is a template. You'll need to replace placeholders like `[Your-GitHub-Username]` with your actual information.
 -->
 
-<!-- Header -->
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/born-2-code/born-2-code/main/assets/header.gif" alt="Animated Header" width="800"/>
+</p>
+
+<!-- Typing SVG Animation -->
 <div align="center">
-  <img src="[Link to your header image or GIF]" alt="Header Image" width="600"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&width=500&lines=Hey+there!+I'm+[Your Name];I'm+a+Full-Stack+App+Developer;I+turn+coffee+into+code;...and+I'm+always+learning." alt="Typing SVG" /></a>
 </div>
 
-<h1 align="center">Hi there, I'm [Farouk] 👋</h1>
-<h3 align="center">A passionate Full-Stack App Developer specializing in JavaScript & React.</h3>
+---
+
+### <samp> GREETINGS, PROGRAM </samp>
+
+<samp>
+I'm a full-stack developer with a passion for building things for the web. I thrive on bringing ideas to life with JavaScript and React, creating applications that are both functional and fun to use. When I'm not coding, you can find me exploring the latest tech, contributing to open source, or diving into a good sci-fi novel.
+</samp>
 
 ---
 
-### 👨‍💻 About Me:
-
-- 🔭 I’m currently building awesome applications with **React and Node.js**.
-- 💬 Ask me about **React, JavaScript, Node.js, and app development**.
----
-
-### 🛠️ My Skills:
+### 🚀 <samp> My Tech Arsenal </samp>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,mongodb,express,docker,git,vscode&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 My ryyUser Stats:
+### 📈 <samp> My GitHub Pulse </samp>
 
 <p align="center">
-  <a href="https://ryyUser.com/[ryyUser]">
-    <img src="https://ryyUser-readme-stats.vercel.app/api?username=[ryyUser]&show_icons=true&theme=radical" alt="[Your Name]'s ryyUser Stats"/>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/[Your-GitHub-Username]">
+    <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  <a href="https://ryyUser.com/[ryyUser]">
-    <img src="https://ryyUser-readme-stats.vercel.app/api/top-langs/?username=[ryyUser]&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/[Your-GitHub-Username]">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  </a>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=dark&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-### 🏆 ryyUser Trophies:
+### 🐍 <samp> My Contribution Graph Snake </samp>
 
 <p align="center">
-  <a href="https://ryyUser.com/ryo-ma/ryyUser-profile-trophy">
-    <img src="https://ryyUser-profile-trophy.vercel.app/?username=[ryyUser]&theme=radical" alt="ryyUser Trophies"/>
-  </a>
+  <img src="https://github.com/[Your-GitHub-Username]/[Your-GitHub-Username]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🤝 Connect with Me:
+### 🤖 <samp> Connect & Collab </samp>
 
 <p align="center">
-  <a href="https://www.instagram.com/[2mmmmmr]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discord.com/users/[.1ev]"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.instagram.com/[Your-Instagram-Username]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/[Your-Discord-User-ID]"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[RyyUser]&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="Profile views"/>
+</p>
