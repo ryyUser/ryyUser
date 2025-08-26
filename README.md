@@ -1,4 +1,7 @@
 <!-- 
+**NOTE:** This template is pre-configured for the user ryyUser.
+Just update your social media links at the bottom.
+-->
 
 <!-- Animated Header -->
 <p align="center">
@@ -35,4 +38,38 @@ I'm a full-stack developer with a passion for building things for the web. I thr
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/ryyUser">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryyUser&show_
+    <img src="https://github-readme-stats.vercel.app/api?username=ryyUser&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/ryyUser">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyUser&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  </a>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=ryyUser&theme=dark&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryyUser&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+### 🐍 <samp> My Contribution Snake </samp>
+
+<p align="center">
+  <!-- This will work after your GitHub Action has successfully run -->
+  <img src="https://raw.githubusercontent.com/ryyUser/ryyUser/output/ocean.gif" alt="Snake animation" />
+</p>
+
+---
+
+### 🤖 <samp> Connect & Collab </samp>
+
+<p align="center">
+  <a href="https://www.instagram.com/2mmmmmr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/.1ev"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryyUser&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="Profile views"/>
+</p>
